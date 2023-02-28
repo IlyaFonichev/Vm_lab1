@@ -1,0 +1,3 @@
+C:/Users/Goodwin/CLionProjects/Fonichev_lab1/cmake-build-debug/CMakeFiles/Fonichev_lab1.dir
+C:/Users/Goodwin/CLionProjects/Fonichev_lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Goodwin/CLionProjects/Fonichev_lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
